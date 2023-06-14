@@ -4,6 +4,9 @@
     "name": "Bryan Timah[Yagi91]",
     "email": "bryantimah@gmail.com"},
   "version": "0.0.1",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "description": "API project for freeCodeCamp",
   "main": "index.js",
   "scripts": {
