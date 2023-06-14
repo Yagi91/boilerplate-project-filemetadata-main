@@ -2,5 +2,7 @@
 
 This is the boilerplate for the File Metadata Microservice project using multer.
 #To start project
-`npm install
-nodemon`
+```
+npm install
+nodemon
+```
